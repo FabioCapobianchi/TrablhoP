@@ -1,0 +1,19 @@
+PauloPires1c  23  S
+AnaLebre34A  55  S
+Tomas111   12   S
+PauloPires2a   67    D   10
+LuisaSantos   40    D   3
+Zulmira2A    17 S
+FabioCapobianchi77e  43  S
+Carlos1     30   S
+CarlaCardoso  34  S
+Zulmira2A1    27 S
+Olivia1     12  S
+SamuelSimoes2z   50   D   2
+SandraSwq       26    S
+HugoA1        2    S
+HugoB1        35   S
+HugoC1       24   I
+ZeManel3e   34   S
+Manuel2c    56  S
+

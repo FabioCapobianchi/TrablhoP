@@ -1,0 +1,76 @@
+PauloPires1c  23  S
+AnaLebre34A  55  S
+Tomas111   12   S
+PauloPires2a   67    S
+LuisaSantos   40    S
+Zulmira2A    17 S
+PauloPires2   67    S
+MarcoMarquesAAA   40    S
+Zulmira2A    17 S
+Olivia1     12  S
+SamuelSimoes   56   D   1
+SandraS       56    S
+HugoA        20    S
+HugoB        25   S
+HugoC       14   D    5
+PauloAlves123   34   S
+PauloPires1  23  S
+AnaLebre34A  55  S
+Tomas111   12   S
+PauloPires2   67    D   10
+LuisaSantos   40    S
+Zulmira2A    17 S
+TobiasF    98    S
+LeonardoL  10   S
+Zemariad8e   2   S
+SergioGuerra3e  42   S
+FabioCapobianchi77e  43  S
+Carlos1     20   D    3
+CarlaCardoso  34   S
+Zulmira2A1    27 S
+Olivia1c     12  S
+SamuelSimoes2z   50   D   2
+SandraSwq       26    S
+HugoA1        2    S
+HugoB1        35   D   1
+HugoC1       24   S
+ZeManel3e   33   D  3
+Manuelb    50  S
+PauloPires1c  13  S
+AnaLucas34A  55  S
+Tomas121   18   S
+PauloPico2a   67    S
+LuisaSa2s   20    D   4
+ZulmiraZu2A    27   S
+PauloPires2a   67    S
+MarcoMarquesAAA   40    S
+Zulmira2A    17 S
+Olivia1b    12  S
+SamuelSimoes   36   S
+SandraS       50    S
+HugoA        20    D  3
+HugoB        15   S
+HugoC       14   D    5
+PauloAlves123   24   S
+PauloPires1  23  S
+AnaLebre34A  55  I
+Tomas111   12   S
+PauloPires2bb   27    S
+LuisaSantos   40    S
+Zulmira2A    17 S
+TobiasF    98    S
+LeonardoL  10   S
+Zemariad8e   2   S
+SergioGuerra3e  22   S
+FabioCapobianchi77e  43  S
+Carlos1     30   S
+CarlaCardoso  34  S
+Zulmira2A1    27 S
+Olivia1     12  S
+SamuelSimoes2z   50   D   2
+SandraSwq       26    S
+HugoA1        2    S
+HugoB1        35   S
+HugoC1       24   I
+ZeManel3e   34   S
+Manuel2c    56  S

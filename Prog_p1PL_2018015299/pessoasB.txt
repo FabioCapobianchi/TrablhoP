@@ -1,0 +1,23 @@
+PauloPires1  23  S
+SofiaA  23  S
+Tomas111   12   S
+PauloPires2   67    D   10
+MarcoMarquesAAA   40    S
+Zulmira2A1    27 S
+Olivia1     12  S
+SamuelSimoes2z   50   D   2
+SandraSwq       26    S
+HugoA1        2    S
+HugoB1        35   D   1
+HugoC1       24   S
+PauloAlves123   34   D   4
+Carlos1     20   D    3
+CarlaCardoso  34   D   7
+SandraMotaA1   24  S 
+PedroPedra   27    S
+DianaD      89    S
+TobiasF    98    S
+LeonardoL  10   S
+Zemariad8e   2   S
+SergioGuerra3e  42   D   5
+FabioCapobianchi77e  43  S

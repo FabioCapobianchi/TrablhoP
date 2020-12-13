@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1592210904 source:c:\users\fabio\documents\megasync\codeblocksprojets\trabprogcode12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Functions.h"
+	"utils.h"
+	"menu.h"
+
+1592092484 c:\users\fabio\documents\megasync\codeblocksprojets\trabprogcode12\functions.h
+
+1592013442 c:\users\fabio\documents\megasync\codeblocksprojets\trabprogcode12\utils.h
+
+1592008596 c:\users\fabio\documents\megasync\codeblocksprojets\trabprogcode12\menu.h
+
+1592211027 source:c:\users\fabio\documents\megasync\codeblocksprojets\trabprogcode12\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Functions.h"
+	"utils.h"
+	"menu.h"
+
+1592012899 source:c:\users\fabio\documents\megasync\codeblocksprojets\trabprogcode12\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1592214295 source:c:\users\fabio\documents\megasync\codeblocksprojets\trabprogcode12\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Functions.h"
+	"utils.h"
+	"menu.h"
+
+1592987815 source:c:\users\fabio\documents\megasync\codeblocksprojets\prog_p1pl_2018015299\prog_p1pl_2018015299\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Functions.h"
+	"utils.h"
+	"menu.h"
+
+1592838152 c:\users\fabio\documents\megasync\codeblocksprojets\prog_p1pl_2018015299\prog_p1pl_2018015299\functions.h
+
+1592013442 c:\users\fabio\documents\megasync\codeblocksprojets\prog_p1pl_2018015299\prog_p1pl_2018015299\utils.h
+
+1592008596 c:\users\fabio\documents\megasync\codeblocksprojets\prog_p1pl_2018015299\prog_p1pl_2018015299\menu.h
+
+1592838152 source:c:\users\fabio\documents\megasync\codeblocksprojets\prog_p1pl_2018015299\prog_p1pl_2018015299\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Functions.h"
+	"utils.h"
+	"menu.h"
+
+1592211027 source:c:\users\fabio\documents\megasync\codeblocksprojets\prog_p1pl_2018015299\prog_p1pl_2018015299\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Functions.h"
+	"utils.h"
+	"menu.h"
+
+1592012899 source:c:\users\fabio\documents\megasync\codeblocksprojets\prog_p1pl_2018015299\prog_p1pl_2018015299\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+

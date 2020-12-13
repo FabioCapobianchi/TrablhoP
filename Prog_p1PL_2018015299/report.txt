@@ -1,0 +1,46 @@
+                          **** Relatorio Final ****
+
+                         **** Numero Interacoes : 12  ****
+
+                        **** Estado da Ultima Interacao ****
+
+  *** Estatistica do Local : 1  Numero de Pessoas : 7  Doentes : 0%  Saudaveis : 85%  Imunes : 14%  ***
+
+  idd: 0	 local: 1	 ctp: 7	 capacidade: 50	  doentes : 0	  saudaveis : 6	  imunes : 1	
+  TobiasF 98 S 0
+  HugoB1 35 I 0
+  Zulmira2A1 27 S 0
+  MarcoMarquesAAA 40 S 0
+  PauloPires2 67 S 0
+  Tomas111 12 S 0
+  PauloPires1 23 S 0
+
+  *** Estatistica do Local : 2  Numero de Pessoas : 10  Doentes : 0%  Saudaveis : 20%  Imunes : 100%  ***
+
+  idd: 1	 local: 2	 ctp: 10	 capacidade: 50	  doentes : 0	  saudaveis : 2	  imunes : 10	
+  FabioCapobianchi77e 43 I 0
+  SergioGuerra3e 42 I 0
+  PedroPedra 27 I 0
+  SandraMotaA1 24 I 0
+  CarlaCardoso 34 I 0
+  PauloAlves123 34 I 0
+  HugoC1 24 I 0
+  SandraSwq 26 I 0
+  SamuelSimoes2z 50 I 0
+  SofiaA 23 I 0
+
+  *** Estatistica do Local : 3  Numero de Pessoas : 3  Doentes : 33%  Saudaveis : 66%  Imunes : 0%  ***
+
+  idd: 2	 local: 3	 ctp: 3	 capacidade: 50	  doentes : 1	  saudaveis : 2	  imunes : 0	
+  Zeze 35 D 1
+  HugoA1 2 S 0
+  Olivia1 12 S 0
+
+  *** Estatistica do Local : 4  Numero de Pessoas : 4  Doentes : 0%  Saudaveis : 25%  Imunes : 75%  ***
+
+  idd: 3	 local: 4	 ctp: 4	 capacidade: 50	  doentes : 0	  saudaveis : 1	  imunes : 3	
+  Zemariad8e 2 I 0
+  LeonardoL 10 I 0
+  DianaD 89 D 11
+  Carlos1 20 I 0
+
